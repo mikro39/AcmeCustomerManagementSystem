@@ -1,0 +1,15 @@
+N:\Code\AcmeCustomerManagementSystem\AcmeCustomerManagementSystem\Tests\ACM.BLTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+N:\Code\AcmeCustomerManagementSystem\AcmeCustomerManagementSystem\Tests\ACM.BLTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+N:\Code\AcmeCustomerManagementSystem\AcmeCustomerManagementSystem\Tests\ACM.BLTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+N:\Code\AcmeCustomerManagementSystem\AcmeCustomerManagementSystem\Tests\ACM.BLTest\bin\Debug\ACM.BLTest.dll
+N:\Code\AcmeCustomerManagementSystem\AcmeCustomerManagementSystem\Tests\ACM.BLTest\bin\Debug\ACM.BLTest.pdb
+N:\Code\AcmeCustomerManagementSystem\AcmeCustomerManagementSystem\Tests\ACM.BLTest\bin\Debug\ACM.BL.dll
+N:\Code\AcmeCustomerManagementSystem\AcmeCustomerManagementSystem\Tests\ACM.BLTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+N:\Code\AcmeCustomerManagementSystem\AcmeCustomerManagementSystem\Tests\ACM.BLTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+N:\Code\AcmeCustomerManagementSystem\AcmeCustomerManagementSystem\Tests\ACM.BLTest\bin\Debug\ACM.BL.pdb
+N:\Code\AcmeCustomerManagementSystem\AcmeCustomerManagementSystem\Tests\ACM.BLTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+N:\Code\AcmeCustomerManagementSystem\AcmeCustomerManagementSystem\Tests\ACM.BLTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+N:\Code\AcmeCustomerManagementSystem\AcmeCustomerManagementSystem\Tests\ACM.BLTest\obj\Debug\ACM.BLTest.csprojAssemblyReference.cache
+N:\Code\AcmeCustomerManagementSystem\AcmeCustomerManagementSystem\Tests\ACM.BLTest\obj\Debug\ACM.BLTest.csproj.CopyComplete
+N:\Code\AcmeCustomerManagementSystem\AcmeCustomerManagementSystem\Tests\ACM.BLTest\obj\Debug\ACM.BLTest.dll
+N:\Code\AcmeCustomerManagementSystem\AcmeCustomerManagementSystem\Tests\ACM.BLTest\obj\Debug\ACM.BLTest.pdb

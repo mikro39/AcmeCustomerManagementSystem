@@ -1,0 +1,5 @@
+N:\Code\AcmeCustomerManagementSystem\AcmeCustomerManagementSystem\ACM.BL\ACM.BL\bin\Debug\ACM.BL.dll
+N:\Code\AcmeCustomerManagementSystem\AcmeCustomerManagementSystem\ACM.BL\ACM.BL\bin\Debug\ACM.BL.pdb
+N:\Code\AcmeCustomerManagementSystem\AcmeCustomerManagementSystem\ACM.BL\ACM.BL\obj\Debug\ACM.BL.csprojAssemblyReference.cache
+N:\Code\AcmeCustomerManagementSystem\AcmeCustomerManagementSystem\ACM.BL\ACM.BL\obj\Debug\ACM.BL.dll
+N:\Code\AcmeCustomerManagementSystem\AcmeCustomerManagementSystem\ACM.BL\ACM.BL\obj\Debug\ACM.BL.pdb
